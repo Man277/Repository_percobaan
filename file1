@@ -1,6 +1,17 @@
 daftar fitur dari github:
 -repository
+ini berperan seperti folder yang menyimpan berbagai jenis file projek kita
+
 -hash
+kumpulan karakter/kode unik dari suatu repository
+
 -commit
+ini menyimpan suatu perubahan dari file kita atau bisa disebut juga sebagai history
+
 -branch
--pull
+alur atau garis lurus yang dipakai untuk melihat history commit(berupa titik-titik) yang nanti bisa saja bercabang jika kita
+buat commit yang lain yang mana kita tidak yakin dengan perubahan itu,apakah perubahan itu akan kigta pakai.
+
+-merge
+merge ini berfungsi untuk mengembalikan alur commit ke jalur utama atau menggabungkannya kembali dengan jalur utama jika history
+perubahan itu akan kita pakai.
